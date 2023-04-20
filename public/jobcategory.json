@@ -1,0 +1,25 @@
+[
+    {   "_id": 1,
+        "jobTitle": "Software Engineer",
+        "jobAvailability": "300 Jobs Available",
+        "jobImage": "https://cdn-icons-png.flaticon.com/512/5906/5906160.png"
+    },
+    {   
+        "_id": 2,
+        "jobTitle": "Web Developer",
+        "jobAvailability": "100+ Jobs Available",
+        "jobImage": "https://thumbs.dreamstime.com/b/website-development-icon-beautiful-meticulously-designed-99654695.jpg"
+    },
+    {
+        "_id": 3,
+        "jobTitle": "Data Analyst",
+        "jobAvailability": "150 Jobs Available",
+        "jobImage": "https://cdn-icons-png.flaticon.com/512/8637/8637114.png"
+    },
+    {
+        "_id": 4,
+        "jobTitle": "IT Specialist",
+        "jobAvailability": "224 Jobs Available",
+        "jobImage": "https://w7.pngwing.com/pngs/569/608/png-transparent-computer-icons-technician-technical-support-web-text-computer-area.png"
+    }
+]
